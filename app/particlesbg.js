@@ -33,7 +33,7 @@ export default function Particlesbg({ children }) {
         fullscreen: 
         {
             enable: true,
-            zIndex: -1,
+            
         },
         background: 
         {
@@ -73,7 +73,7 @@ export default function Particlesbg({ children }) {
           color: "#ffffff",
           distance: 150,
           enable: true,
-          opacity: 0.5,
+          opacity: 0.1,
           width: 1,
         },
         move: {
